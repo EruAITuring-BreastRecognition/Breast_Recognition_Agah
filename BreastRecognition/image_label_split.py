@@ -11,3 +11,4 @@ for i in os.listdir(png_dir):
         xml_dosya = os.path.join(xml_dir, i)
         shutil.move(png_dosya, xml_dosya)
 
+#a
